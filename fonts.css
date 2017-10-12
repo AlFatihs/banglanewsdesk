@@ -1,0 +1,16 @@
+@font-face{
+	font-family: BenSenHandwriting;
+	src: url(https://bangla-ngorg.googlecode.com/svn/fonts/BenSenHandwriting.ttf);
+}
+@font-face{
+	font-family: kalpurush;
+	src: url(https://bangla-ngorg.googlecode.com/svn/fonts/kalpurush-ANSI.ttf);
+}
+@font-face{
+	font-family: SiyamRupali;
+	src: url(https://bangla-ngorg.googlecode.com/svn/fonts/Siyam-Rupali-ANSI.ttf);
+}
+@font-face{
+	font-family: SolaimanLipi;
+	src: url(https://bangla-ngorg.googlecode.com/svn/fonts/SolaimanLipi.ttf);
+}
