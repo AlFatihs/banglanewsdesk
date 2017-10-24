@@ -1,2 +1,2 @@
 # banglanewsdesk
-CDN for banglanewsdesk.com
+banglanewsdesk.com files
